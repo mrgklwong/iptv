@@ -21,7 +21,7 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_80viutv_six.jpg" tvg-shift="+8" group-title="香港",ViuTVsix
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" tvg-shift="+8" group-title="香港",ViuTV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/304.png" tvg-shift="+8" group-title="香港",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" tvg-shift="+8" group-title="香港",香港开電視
