@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/gat.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#EXTINF:-1 tvg-id="SkySports1.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sky_sports_1_mexico-mediano.png",Premier League: Sky Sports Premier League HD (UK)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232274
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png"  group-title="Sport",BT Sport
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232305
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-2-uk.png" group-title="Sport",BT Sport 2
+http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" group-title="Sport",Premier Sports
+http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="Horse Racing",Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="Horse Racing",Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
