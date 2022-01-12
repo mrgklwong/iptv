@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://pcccw.github.io/Ark/EPG/guide_71.xml"
 
 #EXTINF:-1 tvg-id="31.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-shift="+8" group-title="香港",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8|X-Forwarded-For=212.102.42.207
