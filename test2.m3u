@@ -19,18 +19,10 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="131" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/319_300.png" tvg-shift="+8" group-title="香港",TVB 星河台
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_80viutv_six.jpg" tvg-shift="+8" group-title="香港",ViuTVsix
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" tvg-shift="+8" group-title="香港",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/304.png" tvg-shift="+8" group-title="香港",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" tvg-shift="+8" group-title="香港",香港开電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="7119" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/108.png" tvg-shift="+8" group-title="香港",有線財經資訊
-https://www.navchina.cf/IPTV/icable.php?id=38
-#EXTINF:-1 tvg-id="7122" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/109.png" tvg-shift="+8" group-title="香港",有線新闻台
-https://www.navchina.cf/IPTV/icable.php?id=37
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/110.png" tvg-shift="+8" group-title="香港",有線直播新聞台
-https://www.navchina.cf/IPTV/icable.php?id=39
-#EXTINF:-1 tvg-id="7117" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/002.png" tvg-shift="+8" group-title="香港",香港国际經資
-https://www.navchina.cf/IPTV/icable.php?id=76
