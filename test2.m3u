@@ -16,8 +16,6 @@ http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 #EXTINF:-1 tvg-id="127" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" tvg-shift="+8" group-title="香港",TVB Pearl
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/319_300.png" tvg-shift="+8" group-title="香港",TVB 星河台
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_80viutv_six.jpg" tvg-shift="+8" group-title="香港",ViuTVsix
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" tvg-shift="+8" group-title="香港",ViuTV
