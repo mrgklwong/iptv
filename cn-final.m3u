@@ -1,0 +1,25 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/gat.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#EXTINF:-1  tvg-id="126" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" tvg-shift="+8" group-title="香港",TVB Jade (翡翠台)
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-shift="+8" group-title="香港",港台電視31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1024px-RTHK_TV_32.svg.png" tvg-shift="+8" group-title="香港",港台電視32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="33.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/1024px-RTHK_TV_33.svg.png" tvg-shift="+8" group-title="香港",港台電視32
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" tvg-shift="+8" group-title="香港",J2台
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="129" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" tvg-shift="+8" group-title="香港",無綫新聞
+http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+#EXTINF:-1 tvg-id="130" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" tvg-shift="+8" group-title="香港",無綫財經資訊
+http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+#EXTINF:-1 tvg-id="127" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" tvg-shift="+8" group-title="香港",TVB Pearl
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_80viutv_six.jpg" tvg-shift="+8" group-title="香港",ViuTVsix
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" tvg-shift="+8" group-title="香港",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/304.png" tvg-shift="+8" group-title="香港",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" tvg-shift="+8" group-title="香港",香港开電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
