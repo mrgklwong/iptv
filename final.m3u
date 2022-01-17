@@ -99,3 +99,14 @@ http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="Horse Racing",Sky 2 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://toppng.com/uploads/preview/bbc-one-logo-11562943857v4wgwdpsyr.png",BBC One HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/2560px-BBC_Two.svg.png",BBC Two HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Channel-4-Logo.png" ,Channel 4
+http://212.159.23.3:9981/stream/channelid/634014672
+#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/1200px-Channel_5_%28UK%29_2016.svg.png" ,Channel 5
+http://212.159.23.3:9981/stream/channelid/1584766580
+
