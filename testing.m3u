@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1,無綫新聞台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1,無綫財經資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 ,翡翠台(繁体)
+http://iptv.tvfix.org/hls/jade.m3u8
+
+#EXTINF:-1 ,翡翠台(简体)
+http://iptv.tvfix.org/hls/jade2.m3u8
+
+#EXTINF:-1 ,翡翠台海外版(繁体)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+
+#EXTINF:-1 ,翡翠台海外版(简体)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+
+#EXTINF:-1 ,J2
+http://iptv.tvfix.org/hls/j2.m3u8
