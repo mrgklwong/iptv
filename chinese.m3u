@@ -1,3 +1,127 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",福建-漳州六鳌翡翠湾
-https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
+#EXTM3U
+
+#EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
+http://live.cooltv.top/tv/now.php?id=332
+
+#EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+
+#EXTINF:-1 ,tvg-id="1" tvg-name="有线咨讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线咨讯台
+https://api.leonardpark.dev/live/icable/108
+
+#EXTINF:-1 ,tvg-id="1" tvg-name="有线咨讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线咨讯台
+https://www.navchina.cf/IPTV/icable.php?id=37
+
+#EXTINF:-1 ,tvg-id="1" tvg-name="香港開電視" tvg-country="cn" tvg-language="" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="",香港開電視
+https://www.navchina.cf/IPTV/icable.php?id=77
+
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
+http://ye23.win/iptv/tvb.php?id=1
+
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
+http://livetv.dnsfor.me/channel.10.m3u8
+
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
+http://cdn.hkdtmb.com/hls/83/index.m3u8
+
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
+http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+
+#EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+
+#EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
+http://livetv.dnsfor.me/channel.18.m3u8
+
+#EXTINF:-1 ,tvg-id="4" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
+http://xiaojun.cyou/code/?code=iptv&c=3&id=78
+
+#EXTINF:-1 ,tvg-id="5" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
+http://xiaojun.cyou/code/?code=iptv800&id=1
+
+#EXTINF:-1 ,tvg-id="5" tvg-name="明珠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",明珠台
+http://xiaojun.cyou/code/?code=iptv&c=3&id=77
+
+#EXTINF:-1 ,tvg-id="5" tvg-name="ViuTV" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv.jpg" group-title="",ViuTV
+http://xiaojun.cyou/code/?code=iptv&c=3&id=94
+
+#EXTINF:-1 ,tvg-id="5" tvg-name="ViuTV" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv.jpg" group-title="",ViuTV
+http://61.238.6.49:8000/bysid/99
+
+#EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
+http://livetv.dnsfor.me/channel.19.m3u8
+
+#EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+
+#EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
+http://ye23.win/iptv/tvb.php?id=2
+
+#EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
+http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+
+#EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
+http://cdn.hkdtmb.com/hls/85/index.m3u8
+
+#EXTINF:-1 ,tvg-id="8" tvg-name="VviuTV6" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv6.jpg" group-title="",VviuTV6
+http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
+
+#EXTINF:-1 ,tvg-id="9" tvg-name="香港C+" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="",香港C+
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+
+#EXTINF:-1 ,tvg-id="9" tvg-name="港台電視32" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/rhk32.jpg" group-title="",港台電視32
+http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
+
+#EXTINF:-1 ,tvg-id="11" tvg-name="港台電視31" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="",港台電視31
+http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
+
+#EXTINF:-1 ,tvg-id="12" tvg-name="凤凰香港" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/fhxgt.jpg" group-title="",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+
+#EXTINF:-1 ,tvg-id="12" tvg-name="凤凰资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/fhzxt.jpg" group-title="",凤凰资讯台
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+
+#EXTINF:-1 ,tvg-id="12" tvg-name="凤凰中文台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/fhzwt.jpg" group-title="",凤凰中文台
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+
+#EXTINF:-1 ,tvg-id="13" tvg-name="广州新闻" tvg-country="cn" tvg-language="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/aa18972bd40735fadd37e3d991510fb30e24088e?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="",广州新闻
+http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzxw
+
+#EXTINF:-1 ,tvg-id="14" tvg-name="广州综合" tvg-country="cn" tvg-language="" tvg-logo="https://baike.baidu.com/pic/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93/24169712/1/37d3d539b6003af352120c1f3a2ac65c1038b621?fr=lemma&ct=single" group-title="",广州综合
+http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzzh
+
+#EXTINF:-1 ,tvg-id="15" tvg-name="中天新闻" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="民视新闻" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="",民视新闻
+http://seb.sason.top/sc/msxw_fhd.m3u8
+
+#EXTINF:-1 ,tvg-id="17" tvg-name="民视第一" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Astro_Xi_Yue_HD.png" group-title="",民视第一
+http://seb.sason.top/ptv/ftv.php?id=dy
+
+#EXTINF:-1 ,tvg-id="17" tvg-name="寰宇新闻台" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="",寰宇新闻台
+http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+
+#EXTINF:-1 ,tvg-id="17" tvg-name="民视旅游" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="",民视旅游
+http://seb.sason.top/ptv/ftv.php?id=ly
+
+#EXTINF:-1 ,tvg-id="17" tvg-name="国家地理" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="",国家地理
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="Disney Junior" tvg-country="cn" tvg-language="" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/disneyjuniorlogo.png" group-title="",Disney Junior
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="GOODTV-卡通" tvg-country="cn" tvg-language="" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/disneyjuniorlogo.png" group-title="",GOODTV-卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="动物星球" tvg-country="cn" tvg-language="" tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="",动物星球
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="国家地理" tvg-country="cn" tvg-language="" tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="",国家地理
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="Outdoor" tvg-country="cn" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/73/73bdaae46490509703d89b6c6ddb78e5.jpeg" group-title="",Outdoor
+http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
